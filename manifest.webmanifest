@@ -4,8 +4,8 @@
   "description": "2026년 8월 2박 3일 도쿄 가족여행 일정표",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f3efe7",
-  "theme_color": "#252523",
+  "background_color": "#ffffff",
+  "theme_color": "#153f35",
   "lang": "ko",
   "icons": [
     {
