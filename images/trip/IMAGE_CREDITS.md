@@ -11,6 +11,7 @@ Production images are stored locally. Social-media screenshots were not used.
 - Changes: Resized and recompressed as JPEG for web delivery.
 
 ## day2_omotesando.jpg
+- Current cache-busted copy: day2_omotesando_v2.jpg
 - Original: Tokyo-Omotesando---2026-04-29_008.jpg
 - Author: RuinDig / Yuki Uchida
 - Source: Wikimedia Commons
