@@ -10,15 +10,14 @@ Production images are stored locally. Social-media screenshots were not used.
 - Source URL: https://commons.wikimedia.org/wiki/File:Tokyo_teien_museum.jpg
 - Changes: Resized and recompressed as JPEG for web delivery.
 
-## day2_omotesando.jpg
-- Current cache-busted copy: day2_omotesando_v2.jpg
-- Original: Tokyo-Omotesando---2026-04-29_008.jpg
-- Author: RuinDig / Yuki Uchida
+## day2-ginza-night-2024-v1.jpg
+- Original: Ginza at night, Tokyo, 20240823 1919 5592.jpg
+- Author: Jakub Hałun
 - Source: Wikimedia Commons
 - License: CC BY 4.0
 - License URL: https://creativecommons.org/licenses/by/4.0/
-- Source URL: https://commons.wikimedia.org/wiki/File:Tokyo-Omotesando---2026-04-29_008.jpg
-- Changes: Resized and recompressed as JPEG for web delivery.
+- Source URL: https://commons.wikimedia.org/wiki/File:Ginza_at_night,_Tokyo,_20240823_1919_5592.jpg
+- Changes: Center-cropped to 16:9 and recompressed as JPEG for web delivery.
 
 ## day3_tokyo_station.jpg
 - Original: Exterior - Tokyo Station Marunouchi Building - DSC09855.JPG
