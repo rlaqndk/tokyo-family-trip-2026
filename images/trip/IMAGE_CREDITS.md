@@ -2,13 +2,12 @@
 
 Production images are stored locally. Social-media screenshots were not used.
 
-## day1_teien_museum.jpg
-- Original: Tokyo_teien_museum.jpg
-- Author: Jmho
+## day1-azabudai-hills.webp
+- Original: Azabudai Hills (Garden Plaza B, towers, and sign; 2025-11-06).jpg
+- Author: William L. McGough
 - Source: Wikimedia Commons
-- License: CC0 1.0 Universal
-- Source URL: https://commons.wikimedia.org/wiki/File:Tokyo_teien_museum.jpg
-- Changes: Resized and recompressed as JPEG for web delivery.
+- License: CC BY-SA 4.0
+- Changes: Cropped, resized and converted to WebP for web delivery.
 
 ## day2-ginza-night-2024-v1.jpg
 - Original: Ginza at night, Tokyo, 20240823 1919 5592.jpg
@@ -49,12 +48,13 @@ Production images are stored locally. Social-media screenshots were not used.
 
 The following previously deployed WebP files are retained so that an older cached page does not show broken images. The current itinerary does not preload them.
 
-### day1-azabudai-hills.webp
-- Original: Azabudai Hills (Garden Plaza B, towers, and sign; 2025-11-06).jpg
-- Author: William L. McGough
+### day1_teien_museum.jpg
+- Original: Tokyo_teien_museum.jpg
+- Author: Jmho
 - Source: Wikimedia Commons
-- License: CC BY-SA 4.0
-- Changes: Cropped and converted to WebP.
+- License: CC0 1.0 Universal
+- Source URL: https://commons.wikimedia.org/wiki/File:Tokyo_teien_museum.jpg
+- Changes: Resized and recompressed as JPEG for web delivery.
 
 ### day2-tokyo-national-museum.webp
 - Original: Tokyo National Museum, Honkan 2010.jpg
